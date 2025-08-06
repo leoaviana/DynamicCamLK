@@ -1,0 +1,29 @@
+## Interface: 30300
+## Version: 1.0.0
+## Title: DynamicCam
+## Author: mpstark, LudiusMaximus, leoaviana
+## Notes: A more dynamic camera, requires ConsoleXP.
+## Notes-zhCN: 智能动态相机镜头。
+
+## OptionalDeps: Ace3, LibCamera, LibEasing, LibCompress, LibHideUI, Bartender4, GW2_UI, Immersion, Immersion_ExtraFade
+## SavedVariables: DynamicCamDB, minZoomValues
+
+## X-License: The MIT License (MIT)
+
+
+embeds.xml
+
+
+UiHideModule.lua
+
+
+Core.lua
+
+MouseZoom.lua
+SituationManager.lua
+
+DefaultSettings.lua
+
+Sharing.lua
+Presets.lua
+Options.lua
